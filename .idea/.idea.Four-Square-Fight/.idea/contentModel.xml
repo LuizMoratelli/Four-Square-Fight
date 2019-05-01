@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\gamep\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\gamep\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Four-Square-Fight.-1041722959.00" t="ExcludeRecursive" />
+    <e p="C:\Users\gamep\Desktop\Projetos\GameDev\Unity\Four-Square-Fight" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AsepriteImporter" t="Include">
+          <e p="Editor" t="Include">
+            <e p="AseFileAnimationSettings.cs" t="Include" />
+            <e p="AseFileImporter.cs" t="Include" />
+            <e p="AseFileImporterEditor.cs" t="Include" />
+            <e p="AseFileTextureSettings.cs" t="Include" />
+            <e p="Aseprite" t="Include">
+              <e p="AseFile.cs" t="Include" />
+              <e p="Chunk.cs" t="Include" />
+              <e p="Chunks" t="Include">
+                <e p="CelChunk.cs" t="Include" />
+                <e p="CelExtraChunk.cs" t="Include" />
+                <e p="CompressedCelChunk.cs" t="Include" />
+                <e p="FrameTagsChunk.cs" t="Include" />
+                <e p="LayerChunk.cs" t="Include" />
+                <e p="LinkedCelChunk.cs" t="Include" />
+                <e p="PaletteChunk.cs" t="Include" />
+                <e p="RawCelChunk.cs" t="Include" />
+              </e>
+              <e p="Frame.cs" t="Include" />
+              <e p="Header.cs" t="Include" />
+              <e p="Pixel.cs" t="Include" />
+              <e p="PixelFormats" t="Include">
+                <e p="GrayscalePixel.cs" t="Include" />
+                <e p="IndexedPixel.cs" t="Include" />
+                <e p="RGBAPixel.cs" t="Include" />
+              </e>
+              <e p="Utils" t="Include">
+                <e p="Texture2DBlender.cs" t="Include" />
+                <e p="Texture2DUtil.cs" t="Include" />
+              </e>
+            </e>
+            <e p="SpriteAtlasBuilder.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Boss.cs" t="Include" />
+          <e p="CameraFollow.cs" t="Include" />
+          <e p="ChaseBehaviour.cs" t="Include" />
+          <e p="CursorFollow.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="EnemyProjectile.cs" t="Include" />
+          <e p="HealthManager.cs" t="Include" />
+          <e p="HealthSystem.cs" t="Include" />
+          <e p="MeleeEnemy.cs" t="Include" />
+          <e p="PatrolBehavior.cs" t="Include" />
+          <e p="Pickup.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="Projectile.cs" t="Include" />
+          <e p="RangeEnemy.cs" t="Include" />
+          <e p="SceneTransitions.cs" t="Include" />
+          <e p="SummonerEnemy.cs" t="Include" />
+          <e p="TorrentSpawner.cs" t="Include" />
+          <e p="WaveSpawner.cs" t="Include" />
+          <e p="Weapon.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Four-Square-Fight.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
